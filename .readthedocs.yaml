@@ -12,11 +12,14 @@ build:
   tools:
     python: "3.11"
 
+mkdocs:
+  configuration: mkdocs.yml
+
 python:
   install:
     - requirements: docs/requirements.txt
 
-# Build PDF & ePub
-formats:
-  - epub
-  - pdf
+# # Build PDF & ePub
+# formats:
+#   - epub
+#   - pdf
