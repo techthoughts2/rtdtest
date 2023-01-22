@@ -1,10 +1,9 @@
-site_name: rddtest - testing Read the docs out!
+site_name: Convert - PowerShell Module for object conversions
 repo_url: https://github.com/techthoughts2/rtdtest
-edit_uri: edit/main/docs/
-site_description: This site is a test of the read the docs deployment
 site_author: Jake
-copyright: "2022 copyright and stuff"
+edit_uri: edit/main/docs/
 theme: readthedocs
+copyright: "Convert is licensed under the <a href='https://github.com/austoonz/Convert/blob/master/LICENSE'>MIT license"
 pages:
   - Home: index.md
   - Change Log: CHANGELOG.md
