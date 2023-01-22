@@ -30,7 +30,7 @@ theme: readthedocs
     # static_templates:
     #     - sitemap.html
     # include_sidebar: true
-pages:
+nav:
   - Home: index.md
   - Change Log: CHANGELOG.md
   - Functions:
