@@ -20,6 +20,6 @@ python:
     - requirements: docs/requirements.txt
 
 # # Build PDF & ePub
-# formats:
+formats: all
 #   - epub
 #   - pdf

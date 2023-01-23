@@ -9,7 +9,7 @@ site_name: rddtest - testing Read the docs out!
 # site_url:
 repo_url: https://github.com/techthoughts2/rtdtest
 # repo_name:
-edit_uri: edit/main/docs/
+# edit_uri: edit/main/docs/
 # edit_uri_template:
 site_description: This site is a test of the read the docs deployment # meta tag to the generated HTML header
 site_author: Jake # meta tag to the generated HTML header
