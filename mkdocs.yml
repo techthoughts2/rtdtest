@@ -3,6 +3,8 @@
 # https://www.mkdocs.org/user-guide/writing-your-docs/#writing-with-markdown
 # https://mkdocs.readthedocs.io/en/0.15.2/user-guide/writing-your-docs/
 # https://mkdocs.readthedocs.io/en/0.15.2/user-guide/styling-your-docs/
+# https://example-mkdocs-basic.readthedocs.io/en/latest/
+
 # mkdocs.yml
 
 site_name: rddtest - testing Read the docs out!
