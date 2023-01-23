@@ -4,6 +4,8 @@
 
 This PowerShell module contains a collection of useful cmdlets for automating common tasks.
 
+![A duck](../media/duck.png)
+
 ## Installation
 
 To install this module, copy the entire folder to one of the following locations:
