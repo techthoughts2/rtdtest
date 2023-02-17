@@ -1,36 +1,40 @@
-# PowerShell Module Project
+# rtdtest
+
+## Synopsis
+
+<!-- Enter a synopsis -->
 
 ## Description
 
-This PowerShell module contains a collection of useful cmdlets for automating common tasks.
+<!-- Enter a description -->
 
-![A duck](../media/duck.png)
+## Why
 
-## Installation
+<!-- Short reason you created the project -->
 
-To install this module, copy the entire folder to one of the following locations:
+## Getting Started
 
-- `$env:USERPROFILE\Documents\WindowsPowerShell\Modules` for the current user
-- `$env:ProgramFiles\WindowsPowerShell\Modules` for all users
+### Prerequisites
 
-Then, in PowerShell, run `Import-Module <ModuleName>` to import the module.
+<!-- list any prerequisites -->
 
-## Usage
-
-To view all cmdlets in the module, run `Get-Command -Module <ModuleName>`.
-
-To view the help for a specific cmdlet, run `Get-Help <CmdletName> -Full`.
-
-## Examples
+### Installation
 
 ```powershell
-PS C:> Get-Command -Module <ModuleName>
+# how to install rtdtest
+
 ```
 
-## Contributing
+### Quick start
 
-If you would like to contribute to this project, please fork the repository and submit a pull request.
+#### Example1
 
-## License
+```powershell
+# command showing how to use your project
 
-This project is licensed under the MIT License.
+```
+
+## Author
+
+Jake Morrison
+
